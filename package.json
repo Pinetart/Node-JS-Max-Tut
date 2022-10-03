@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Pinetart/Node-JS-Max-Tut/issues"
   },
-  "homepage": "https://github.com/Pinetart/Node-JS-Max-Tut#readme"
+  "homepage": "https://github.com/Pinetart/Node-JS-Max-Tut#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
